@@ -23,7 +23,7 @@ I chose to use the following hyper parameters:
 * sequence length: 10
 * batch size: 128
 * embedding dim: 200
-* hidden dim: 256
+* hidden dim: 1024
 * num layers: 2
 * learning rate: 1e-4
 
